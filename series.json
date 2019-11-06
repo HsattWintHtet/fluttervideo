@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-        "name": "bla",
+        "name": "Series",
         "year": "2001",
         "categories": "drama",
         "country": "korea",
@@ -26,7 +26,7 @@
   
   {
     "id": 1,
-        "name": "bla",
+        "name": "Series2",
         "year": "2001",
         "categories": "drama",
         "country": "korea",
@@ -51,7 +51,7 @@
   
   {
     "id": 1,
-        "name": "bla",
+        "name": "Series3",
         "year": "2001",
         "categories": "drama",
         "country": "korea",
@@ -76,7 +76,7 @@
   
   {
     "id": 1,
-        "name": "bla",
+        "name": "Series4",
         "year": "2001",
         "categories": "drama",
         "country": "korea",
